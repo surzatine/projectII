@@ -35,7 +35,7 @@ int main()
     printf("Welcome to Encryption and Decryption\n");
     printf("\n");
 
-
+    /*Input file Name*/
     printf("enter file name: ");
     gets(fileName);
 
