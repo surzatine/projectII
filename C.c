@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>  /*sleep for linux*/
 #include <Windows.h> /*sleep for windows*/
-  
+   
 int main()
 {
     char fileName[20];
